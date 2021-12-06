@@ -1,6 +1,6 @@
 # Cancer-Detection-Using-Mammograph-Classification
 
-Using real world data of masses detected in mammograms and determine whether or not those masses are benign or malignant in nature.
+Using real world data of masses detected in mammograms to determine whether or not those masses are benign or malignant in nature.
 
 We have used supervised classification machine learning techniques and pitted them against each other. Based on its measurements using multiple different classification techniques we see which one does the best.
 
