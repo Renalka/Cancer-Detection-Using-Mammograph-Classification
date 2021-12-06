@@ -22,10 +22,10 @@ Although "shape" and "margin" are nominal data types, they are close enough to o
 Our approach
 We will apply different supervised machine learning techniques to this dataset and model evaluation will be done using K-Fold cross validation (K=10).
 
-Decision tree
-Random forest
-KNN
-Naive Bayes
-SVM
-Logistic Regression
+Decision tree\
+Random forest\
+KNN\
+Naive Bayes\
+SVM\
+Logistic Regression\
 Neural network using Keras
